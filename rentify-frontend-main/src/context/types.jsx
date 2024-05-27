@@ -1,0 +1,16 @@
+// types.js
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const PROPERTY_LOADED = 'PROPERTY_LOADED';
+export const PROPERTY_ERROR = 'PROPERTY_ERROR';
+export const ADD_PROPERTY = 'ADD_PROPERTY';
+export const UPDATE_PROPERTY = 'UPDATE_PROPERTY';
+export const DELETE_PROPERTY = 'DELETE_PROPERTY';
+export const SET_LOADING = 'SET_LOADING';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
